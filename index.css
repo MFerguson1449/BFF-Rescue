@@ -1,0 +1,30 @@
+body  {
+    background-color: black;
+    margin-left: 15%;
+    margin-right: 15%;
+    padding: 10px 10px 10px 10px;
+    font-family: sans-serif;
+    color: white;
+    text-align: center;
+    font-size: normal 
+}
+
+.bff {
+    font-weight: bolder;
+    font-size: 250%
+}
+
+.adopt {
+    border-bottom: 1px solid white;
+    font-weight: bold;
+    font-size: 200%;
+    padding-bottom: 15px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.mission {
+    font-size: 100%;
+    border-bottom: 1px solid white;
+    padding-bottom: 15px;
+}
