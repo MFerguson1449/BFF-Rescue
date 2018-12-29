@@ -3,7 +3,7 @@ body  {
     margin-left: 15%;
     margin-right: 15%;
     padding: 10px 10px 10px 10px;
-    font-family: sans-serif;
+    font-family: Verdana, Arial, sans-serif;
     color: white;
     text-align: center;
     font-size: normal 
@@ -14,17 +14,52 @@ body  {
     font-size: 250%
 }
 
-.adopt {
+#header {
     border-bottom: 1px solid white;
     font-weight: bold;
-    font-size: 200%;
-    padding-bottom: 15px;
+    font-size: 150%;
+    padding-top: 10px;
+    padding-bottom: 10px;
     padding-left: 50px;
     padding-right: 50px;
+    background-image: url("img/logobanner.png");
+    background-repeat: no-repeat;
+    background-position: center top;
 }
 
-.mission {
+#mission {
     font-size: 100%;
     border-bottom: 1px solid white;
     padding-bottom: 15px;
+}
+
+#statement {
+    margin-right: 300px;
+}
+
+.pupimg {
+    border-radius: 250px;
+}
+
+p.pupdesc {
+    margin-right: 150px;
+    margin-left: 150px;
+
+}
+
+#linka {
+    font-size: 80%;
+    margin-right: 50%
+}
+
+a:link, a:visited {
+    color:white;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #555555
+}
+
+#doc1 {
 }
